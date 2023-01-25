@@ -4,7 +4,7 @@ import Inicial from './pages/Inicial';
 class App extends Component {
   render() {
     return (
-      <Inicial/>
+        <Inicial />
     );
   }
 }

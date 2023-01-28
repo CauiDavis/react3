@@ -1,18 +1,15 @@
 import styled from 'styled-components';
 
-const Styled = styled.body`
-font-size: 1em;
-font-family:'Trebuchet MS','Helvetica', sans-serif;
-background: #e6e6e6;
+const Styled = styled.div`
+
 
 
 #area-cabeçalho{
     background-color: #f7b600;
-    padding: 15px;
     text-align: center;
 }
 #area-logo, #area-menu{
-    padding: 10px;
+    padding: 5px;
 }
 h1{
     color: #4e4e4e;
